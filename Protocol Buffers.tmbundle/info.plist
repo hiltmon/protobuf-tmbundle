@@ -2,6 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>contactEmailRot13</key>
+	<string></string>
+	<key>contactName</key>
+	<string>Hilton Lipschitz</string>
+	<key>description</key>
+	<string>Google Protocol Buffers</string>
+	<key>name</key>
+	<string>Protocol Buffers</string>
+	<key>uuid</key>
+	<string>2B328B48-DB8E-4925-BCCC-5C13984FB676</string>
 	<key>mainMenu</key>
 	<dict>
 		<key>excludedItems</key>
@@ -42,7 +52,5 @@
 		<string>536422CB-6606-427B-A6C3-61C0A6BBD2FD</string>
 		<string>BBEFB63C-5ED0-4019-BF8E-E9B3669BAED8</string>
 	</array>
-	<key>uuid</key>
-	<string>2B328B48-DB8E-4925-BCCC-5C13984FB676</string>
 </dict>
 </plist>
